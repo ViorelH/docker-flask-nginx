@@ -1,4 +1,4 @@
-# Dockerized Flask App with Nginx
+# Dockerized Flask App with Nginx !
 
 ![Docker CI](https://github.com/ViorelH/docker-flask-nginx/actions/workflows/docker-build.yml/badge.svg)
 
