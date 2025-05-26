@@ -15,7 +15,7 @@ This project demonstrates a simple Flask web application deployed using Gunicorn
 
 1. Clone the repository:
 
-   ```bash
+
    git clone https://github.com/ViorelH/docker-flask-nginx.git
    cd docker-flask-nginx
 
