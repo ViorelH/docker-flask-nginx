@@ -4,14 +4,14 @@
 
 This project demonstrates a simple Flask web application deployed using Gunicorn behind an Nginx reverse proxy, orchestrated with Docker Compose.
 
-## 🔧 Stack
+##  Stack
 
 - Python 3.10
 - Flask + Gunicorn
 - Nginx (reverse proxy)
 - Docker & Docker Compose
 
-## 🚀 How to Run
+##  How to Run
 
 1. Clone the repository:
 
